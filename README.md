@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Miranda 👩‍💻 
 
-<img src="https://raw.githubusercontent.com/mirazeng/mirazeng/main/miranda-z-p.png" alt="banner that says Miranda Zeng - software engineer, AI/ML expert alongside a chef of Miranda">
-
 <img src="https://raw.githubusercontent.com/mirazeng/mirazeng/main/miranda-z-p.png" alt="banner that says Miranda Zeng - software engineer focus on Fintech, AI/ML expert alongside a chef of Miranda">
 I'm a software engineer with expertise in AI, Machine Leaning, and Reinforcement Learning. My experience includes various optimized algorithms. I'm passionate about applying machine learning models to solve real-world problems.
 
